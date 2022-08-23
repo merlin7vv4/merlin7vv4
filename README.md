@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merlin7vv4
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python; C#
 
 
 <!---
