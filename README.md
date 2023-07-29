@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merlin7vv4&label=Profile%20views&color=0e75b6&style=flat" alt="merlin7vv4" /> </p>
 
 <h1 align="center">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C26C4&center=true&vCenter=true&multiline=true&repeat=false&width=436&height=60&lines=MERLIN;Do+One+Thing+And+Do+It+Well" />
+    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=C40000&center=true&vCenter=true&multiline=true&repeat=false&width=436&height=60&lines=MERLIN;Do+One+Thing+And+Do+It+Well" />
 </h1>
 <p align="left">
 </p>
