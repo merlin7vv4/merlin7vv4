@@ -1,4 +1,4 @@
 
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/merlin7vv4/merlin7vv4/blob/output/github-snake-dark.svg)
